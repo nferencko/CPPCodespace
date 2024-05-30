@@ -2,8 +2,7 @@
 
 using namespace std;
 
-int main ()
-{
+int main (){
   cout << "Hello C++ Codespace" << endl;
 
   return EXIT_SUCCESS;
